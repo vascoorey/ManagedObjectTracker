@@ -1,0 +1,18 @@
+PODS:
+  - Expecta (0.3.0)
+  - MagicalRecord (2.2):
+    - MagicalRecord/Core
+  - MagicalRecord/Core (2.2)
+  - Specta (0.2.1)
+
+DEPENDENCIES:
+  - Expecta
+  - MagicalRecord
+  - Specta
+
+SPEC CHECKSUMS:
+  Expecta: 322f1dc42610106a5ba9871b4924cf1635d80833
+  MagicalRecord: 95d49d74ef752cd52f6ad87bcb474817fc3978cf
+  Specta: 2d06220591110c6d9757d8be8ecf8e63aa40dc2a
+
+COCOAPODS: 0.32.1
